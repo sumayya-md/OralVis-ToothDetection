@@ -34,7 +34,7 @@ Metric	Value
 Precision:	0.20277
 Recall:	0.45656
 mAP@50:	1.18766
-mAP@50-95:	1.11874
+mAP@50-95:0.11874
  predictions are available in /runs/predictions/
 
 📝 Submission
